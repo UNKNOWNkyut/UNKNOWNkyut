@@ -4,7 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=A371F7&center=true&vCenter=true&width=600&height=50&lines=DEVELOPER;GRAPHIC+DESIGNER;VIDEO+EDITOR;ANALYTICS" alt="Typing animation: Developer, Graphic Designer, Video Editor, Analytics" />
 </p>
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExenB0eHk2ZW1kMHZmcGo1Nm43dHRhYjIyYzNndHMyaTJ3aHM3ajE4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S7u66urzxc2J2/giphy.gif" alt="Banner" width="100%" />
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My koi" />
+</p>
 
 ## 🎯 About Me
 
